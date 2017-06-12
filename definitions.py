@@ -1,0 +1,1 @@
+SAMPLES_DIR = '/Users/benWhittle/Documents/htmltest/samples/'
